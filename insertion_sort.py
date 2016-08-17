@@ -1,4 +1,5 @@
-#insertion-sort(
+#insertion-sort(A)
+
 A = [5,2,4,6,1,3]
 for j in range(1,len(A)):
         i = j
