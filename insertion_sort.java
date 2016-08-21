@@ -11,7 +11,7 @@ public class insertion_sort {
 		cards[i1] = input.nextInt();
 		}
 	
-	for(int j = 2; j < cards.length; j++){
+	for(int j = 1; j < cards.length; j++){
 		int key = cards[j];
 		
 		int i = j - 1;
